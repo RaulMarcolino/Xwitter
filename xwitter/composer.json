@@ -1,5 +1,5 @@
 {
-  "name": "manolo/xwitter",
+  "name": "raul/xwitter",
   "autoload": {
     "psr-4": {
       "App\\": "app/",
@@ -8,8 +8,8 @@
   },
   "authors": [
     {
-      "name": "Manoel Carvalho",
-      "email": "manoelmecat@gmail.com"
+      "name": "Raul Marcolino",
+      "email": "luiz.junior53@aluno.ce.gov.br"
     }
   ],
   "require": {}
